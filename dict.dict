@@ -1,0 +1,20 @@
+
+"<h1>"
+"alert(1)"
+"<!--!>"
+"<!-"
+"-!>"
+"<h1"
+"javascript:alert(1)"
+"<a href="
+"alert(1)"
+"alert"
+"script"
+"<"
+">"
+"h1"
+"="
+"<h1 something=\"poopoo\">"
+
+# <!--!> <h1 value="--><a href="javascript:alert(document.domain)">link
+

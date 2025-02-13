@@ -1,2 +1,2 @@
 # goxssfuzz
-This is my fuzzer for go xss
+This is a program which fuzzes net/html for potential XSS vectors.
